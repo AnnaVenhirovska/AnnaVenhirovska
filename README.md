@@ -38,7 +38,11 @@
 </a>
 <a href="https://instagram.com/anutkaven" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>
+</a>   
+<a href="https://www.facebook.com/anutke" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+
+<img alt="GIF" src="https://raw.githubusercontent.com/AnnaVenhirovska/AnnaVenhirovska/main/coding_girl.gif?raw=true" width="457" height="320" />
 
 <h3 align="left">All my projects you can find in the profile :point_down:</h3>
