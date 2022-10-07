@@ -1,14 +1,26 @@
 <h1>Hello <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28"/>! My name is Anna Venhirovska :heart_eyes_cat: !<h1>
 <h2>:blush: I'm looking for my first job as a Front End developer.</h2>
 <p>:white_check_mark: I successfully completed the courses:</p>
+
 <ul> 
 <li><a href="https://certificate.ithillel.ua/view/10482899" target="_blank">Front End Basic (HTML & CSS)</a></li>
-<li><a href="https://certificate.ithillel.ua/ru/view/73507248" target="_blank">Front End Pro (JavaScript)</a> </ul></li>
-<p>I'm a passionate coder :girl: :computer:! I try to do a perfect job in everything, and I enjoy the process immensely. My motto: I see the goal, not the obstacles.</p>
+<li><a href="https://certificate.ithillel.ua/ru/view/73507248" target="_blank">Front End Pro (JavaScript)</a></li> 
+</ul>
 
-<h3 align="left">Languages and Tools:</h3>
+<img align="left" src="https://lms.ithillel.ua/uploads/certificates/73507248_en.png" alt="Front End Pro" width="402" height="284">
+<img align="left" src="https://lms.ithillel.ua/uploads/certificates/10482899_en.png" alt="Front End Basic" width="402" height="284">
+
+<br />
+
+<p> <strong>I'm a passionate coder :girl: :computer:! I try to do a perfect job in everything, and I enjoy the process immensely. I studied hard, and I become first in the ranking in both groups :fire:! I’m skilled with HTML & CSS and JavaScript, I continue to learn other technologies, step by step. :heart_eyes:</p>
+<p>I try to get the most out of my time at study and practice, which is the primary reason why I seek a remote full-time job. Apart from coding, I enjoy reading a good book :book: , or a nice evening out with friends :woman: :boy:. My motto: I see the goal, not the obstacles.</strong></p>
+<p> <i> I'll be glad to work with you.</i> :heart: </p>
+
+<img src="https://github.com/AnnaFine/AnnaFine/blob/main/quote.jpg?raw=true" alt="Quote" width="980" height="400">
+
+<h2>Languages and Tools:</h2>
   
-<p align="left">  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<p>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
@@ -43,6 +55,6 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 
-<img alt="GIF" src="https://raw.githubusercontent.com/AnnaVenhirovska/AnnaVenhirovska/main/coding_girl.gif?raw=true" width="457" height="320" />
+<img alt="GIF" src="https://raw.githubusercontent.com/AnnaFine/AnnaFine/main/coding_girl.gif?raw=true" width="457" height="320" />
 
 <h3 align="left">All my projects you can find in the profile :point_down:</h3>
