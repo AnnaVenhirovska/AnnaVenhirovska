@@ -16,7 +16,7 @@
 <p>I try to get the most out of my time at study and practice, which is the primary reason why I seek a remote full-time job. Apart from coding, I enjoy reading a good book :book: , or a nice evening out with friends :woman: :boy:. My motto: I see the goal, not the obstacles.</strong></p>
 <p> <i> I'll be glad to work with you.</i> :heart: </p>
 
-<img src="https://github.com/AnnaFine/AnnaFine/blob/main/quote.jpg?raw=true" alt="Quote" width="980" height="400">
+<img src="https://raw.githubusercontent.com/AnnaVenhirovska/AnnaVenhirovska/main/quote.jpg?raw=true" alt="Quote" width="980" height="400">
 
 <h2>Languages and Tools:</h2>
   
