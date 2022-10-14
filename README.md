@@ -1,5 +1,5 @@
 <h1>Hello <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28"/>! My name is Anna Venhirovska :heart_eyes_cat: !</h1>
-<h2>:blush: I'm looking for a job, always in continuous learning. Self-initiative and taking on challenges. :muscle: </h2>
+<h2>I'm looking for a job, always in continuous learning. :blush: Self-initiative and taking on challenges. :muscle: </h2>
 <p>:white_check_mark: I successfully completed the courses:</p>
 
 <ul> 
