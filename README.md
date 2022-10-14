@@ -1,3 +1,4 @@
+<h1>Hello <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28"/>! My name is Anna Venhirovska :heart_eyes_cat: !<h1>
 
 <p>:white_check_mark: I successfully completed the courses:</p>
 
