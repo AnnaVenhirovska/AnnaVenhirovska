@@ -1,6 +1,6 @@
 <h1>Hello <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28"/>! My name is Anna Venhirovska :heart_eyes_cat: !</h1>
 <h2>I'm looking for a job, always in continuous learning. :blush: Self-initiative and taking on challenges. :muscle: </h2>
-<p>:white_check_mark: I successfully completed the courses:</p>
+<p>:white_check_mark: I have successfully completed the courses:</p>
 
 <ul> 
 <li><a href="https://certificate.ithillel.ua/view/10482899" target="_blank">Front End Basic (HTML & CSS)</a></li>
