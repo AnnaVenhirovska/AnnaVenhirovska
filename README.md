@@ -10,7 +10,7 @@
   
 <img align="left" src="https://lms.ithillel.ua/uploads/certificates/98329577_en.png" alt="Front End Basic" width="402" height="284">
 <img align="left" src="https://lms.ithillel.ua/uploads/certificates/10482899_en.png" alt="Front End Basic" width="402" height="284">
-<img src="https://github.com/AnnaFine/AnnaFine/blob/main/white_bar.jpg">
+<img src="https://github.com/AnnaVenhirovska/AnnaVenhirovska/blob/main/white_bar.jpg">
 <img align="left" src="https://lms.ithillel.ua/uploads/certificates/73507248_en.png" alt="Front End Pro" width="402" height="284">
 
 <br/>
@@ -19,7 +19,7 @@
 <p>I try to get the most out of my time to practice new features and study, which is the primary reason why I seek a remote full-time job. Apart from coding, I enjoy reading a good book :book: , or a nice evening out with friends :woman: :boy:. My motto: I see the goal, not the obstacles.</strong></p>
 <p> <i> I'll be glad to work with you.</i> :heart: :sun_with_face: :bulb:</p>
 
-<img align="left" src="https://github.com/AnnaFine/AnnaFine/blob/main/white_bar.jpg">
+<img src="https://github.com/AnnaVenhirovska/AnnaVenhirovska/blob/main/white_bar.jpg">
 <img src="https://raw.githubusercontent.com/AnnaVenhirovska/AnnaVenhirovska/main/quote.jpg?raw=true" alt="Quote" width="980" height="400">
 
 <h2>Languages and Tools:</h2>
