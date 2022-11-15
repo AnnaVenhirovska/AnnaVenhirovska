@@ -1,21 +1,25 @@
-<h1>Hello <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28"/>! My name is Anna Venhirovska :heart_eyes_cat: !</h1>
-<h2>I'm looking for a job, always in continuous learning. :blush: Self-initiative and taking on challenges. :muscle: </h2>
-<p>:white_check_mark: I have successfully completed the courses:</p>
+<h1>Hello <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28"/>! My name is Anna Venhirovska :heart_eyes_cat: !<h1>
+<h2> :blush: I'm a professional Automation QA Engineer (JS)! :girl: :computer:</h2>
+<p>:white_check_mark: I successfully completed the courses:</p>
 
-<ul> 
+<ul>
+<li><a href="https://certificate.ithillel.ua/view/98329577" target="_blank">QA Manual</a></li>
 <li><a href="https://certificate.ithillel.ua/view/10482899" target="_blank">Front End Basic (HTML & CSS)</a></li>
 <li><a href="https://certificate.ithillel.ua/view/73507248" target="_blank">Front End Pro (JavaScript)</a></li> 
 </ul>
-
-<img align="left" src="https://lms.ithillel.ua/uploads/certificates/73507248_en.png" alt="Front End Pro" width="402" height="284">
+  
+<img align="left" src="https://lms.ithillel.ua/uploads/certificates/98329577_en.png" alt="Front End Basic" width="402" height="284">
 <img align="left" src="https://lms.ithillel.ua/uploads/certificates/10482899_en.png" alt="Front End Basic" width="402" height="284">
+<img src="https://github.com/AnnaFine/AnnaFine/blob/main/white_bar.jpg">
+<img align="left" src="https://lms.ithillel.ua/uploads/certificates/73507248_en.png" alt="Front End Pro" width="402" height="284">
 
-<br />
+<br/>
 
-<p> <strong>I'm a passionate coder :girl: :computer:! I try to do a perfect job in everything, and I enjoy the process immensely. I studied hard, and I become first in the ranking in both groups :fire:! I’m skilled with HTML & CSS and JavaScript, I continue to learn other technologies, step by step. :heart_eyes:</p>
-<p>I try to get the most out of my time at study and practice, which is the primary reason why I seek a remote full-time job. Apart from coding, I enjoy reading a good book :book: , or a nice evening out with friends :woman: :boy:. My motto: I see the goal, not the obstacles.</strong></p>
-<p> <i> I'll be glad to work with you.</i> :heart: </p>
+<p> <strong>I'm a passionate Automation QA Engineer :girl: :computer:! I try to do a perfect job in everything, and I enjoy the process immensely. I studied hard, and I become first in the ranking in three groups :fire:! I’m skilled with Manual/Automation testing, HTML & CSS, and JavaScript, I continue to learn other technologies, step by step :heart_eyes:.</p>
+<p>I try to get the most out of my time to practice new features and study, which is the primary reason why I seek a remote full-time job. Apart from coding, I enjoy reading a good book :book: , or a nice evening out with friends :woman: :boy:. My motto: I see the goal, not the obstacles.</strong></p>
+<p> <i> I'll be glad to work with you.</i> :heart: :sun_with_face: :bulb:</p>
 
+<img align="left" src="https://github.com/AnnaFine/AnnaFine/blob/main/white_bar.jpg">
 <img src="https://raw.githubusercontent.com/AnnaVenhirovska/AnnaVenhirovska/main/quote.jpg?raw=true" alt="Quote" width="980" height="400">
 
 <h2>Languages and Tools:</h2>
