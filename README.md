@@ -1,5 +1,5 @@
 <h1>Hello <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28"/>! My name is Anna Venhirovska :heart_eyes_cat: !<h1>
-<h2> :blush: I'm a professional Automation QA Engineer (JS)! :girl: :computer:</h2>
+<h2> :blush: I'm a professional QA Engineer! :girl: :computer:</h2>
 <p>:white_check_mark: I successfully completed the courses:</p>
 
 <ul>
@@ -15,7 +15,7 @@
 
 <br/>
 
-<p> <strong>I'm a passionate Automation QA Engineer :girl: :computer:! I try to do a perfect job in everything, and I enjoy the process immensely. I studied hard, and I become first in the ranking in three groups :fire:! I’m skilled with Manual/Automation testing, HTML & CSS, and JavaScript, I continue to learn other technologies, step by step :heart_eyes:.</p>
+<p> <strong>I'm a passionate QA Engineer :girl: :computer:! I try to do a perfect job in everything, and I enjoy the process immensely. I studied hard, and I become first in the ranking in three groups :fire:! I’m skilled with Manual/Automation testing, HTML & CSS, and JavaScript, I continue to learn other technologies, step by step :heart_eyes:.</p>
 <p>I try to get the most out of my time to practice new features and study, which is the primary reason why I seek a remote full-time job. Apart from coding, I enjoy reading a good book :book: , or a nice evening out with friends :woman: :boy:. My motto: I see the goal, not the obstacles.</strong></p>
 <p> <i> I'll be glad to work with you.</i> :heart: :sun_with_face: :bulb:</p>
 
